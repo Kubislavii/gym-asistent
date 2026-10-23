@@ -1,0 +1,690 @@
+[
+  {
+    "id": "n1",
+    "group": "Nohy",
+    "name": "Goblet dřep s kettlebellem",
+    "eq": [
+      "kettlebell"
+    ],
+    "reps": "10–12",
+    "rest": "90 s",
+    "difficulty": 9,
+    "how": [
+      "Drž kettlebell oběma rukama u hrudníku, chodidla na šířku ramen.",
+      "Sedni si dolů mezi kolena, záda rovně, paty na zemi.",
+      "Vytlač se zpět nahoru přes celá chodidla."
+    ],
+    "mistake": "Kolena padají dovnitř a paty se zvedají.",
+    "images": [
+      "exercises/n1/start.webp",
+      "exercises/n1/end.webp"
+    ],
+    "videoQuery": "Goblet dřep s kettlebellem technika provedení"
+  },
+  {
+    "id": "n2",
+    "group": "Nohy",
+    "name": "Leg press",
+    "eq": [
+      "stroje"
+    ],
+    "reps": "10–12",
+    "rest": "90 s",
+    "difficulty": 8,
+    "how": [
+      "Nastav sedák tak, aby kolena byla dole zhruba v pravém úhlu.",
+      "Chodidla na plošině na šířku ramen, bedra pevně opři.",
+      "Tlač plošinu od sebe, kolena nahoře nezamykej."
+    ],
+    "mistake": "Zvedání zadku ze sedáku a zamčená kolena.",
+    "images": [
+      "exercises/n2/start.webp",
+      "exercises/n2/end.webp"
+    ],
+    "videoQuery": "Leg press technika provedení"
+  },
+  {
+    "id": "n3",
+    "group": "Nohy",
+    "name": "Rumunský mrtvý tah s činkami",
+    "eq": [
+      "cinky"
+    ],
+    "reps": "8–12",
+    "rest": "90 s",
+    "difficulty": 9,
+    "how": [
+      "Drž činky před stehny, kolena mírně pokrčená.",
+      "Posouvej zadek dozadu, činky vedou podél nohou, záda rovně.",
+      "Jakmile ucítíš tah vzadu na stehnech, vrať se nahoru."
+    ],
+    "mistake": "Kulatá záda a činky daleko od nohou.",
+    "images": [
+      "exercises/n3/start.webp",
+      "exercises/n3/end.webp"
+    ],
+    "videoQuery": "Rumunský mrtvý tah s činkami technika provedení"
+  },
+  {
+    "id": "n4",
+    "group": "Nohy",
+    "name": "Výpady vzad s vlastní vahou",
+    "eq": [
+      "telo"
+    ],
+    "reps": "8–10 na nohu",
+    "rest": "60 s",
+    "difficulty": 7,
+    "how": [
+      "Stůj vzpřímeně a udělej velký krok vzad.",
+      "Spusť zadní koleno těsně k zemi, trup zůstává vzpřímený.",
+      "Odtlač se přední nohou zpět do stoje."
+    ],
+    "mistake": "Příliš krátký krok a trup nakloněný dopředu.",
+    "images": [
+      "exercises/n4/start.webp",
+      "exercises/n4/end.webp"
+    ],
+    "videoQuery": "Výpady vzad s vlastní vahou technika provedení"
+  },
+  {
+    "id": "n5",
+    "group": "Nohy",
+    "name": "Hip thrust s činkou na lavici",
+    "eq": [
+      "cinky",
+      "bench"
+    ],
+    "reps": "10–12",
+    "rest": "90 s",
+    "difficulty": 8,
+    "how": [
+      "Opři lopatky o okraj lavice, činku polož na pánev.",
+      "Zatlač paty do země a zvedni pánev, až je tělo od ramen ke kolenům v rovině.",
+      "Nahoře stáhni hýždě, pomalu dolů."
+    ],
+    "mistake": "Prohnutá bedra místo zatnutých hýždí.",
+    "images": [
+      "exercises/n5/start.webp",
+      "exercises/n5/end.webp"
+    ],
+    "videoQuery": "Hip thrust s činkou na lavici technika provedení"
+  },
+  {
+    "id": "h1",
+    "group": "Hrudník",
+    "name": "Tlak s činkami na lavici",
+    "eq": [
+      "cinky",
+      "bench"
+    ],
+    "reps": "8–12",
+    "rest": "90 s",
+    "difficulty": 9,
+    "how": [
+      "Lehni si na lavici, lopatky stáhni k sobě a chodidla opři o zem.",
+      "Činky spouštěj kontrolovaně k hrudníku, lokty asi 45° od těla.",
+      "Zatlač nahoru nad hrudník a nahoře nezamykej lokty."
+    ],
+    "mistake": "Lokty rozevřené do stran a odrážení činek od hrudníku.",
+    "images": [
+      "exercises/h1/start.webp",
+      "exercises/h1/end.webp"
+    ],
+    "videoQuery": "Tlak s činkami na lavici technika provedení"
+  },
+  {
+    "id": "h2",
+    "group": "Hrudník",
+    "name": "Tlak na stroji vsedě",
+    "eq": [
+      "stroje"
+    ],
+    "reps": "10–12",
+    "rest": "90 s",
+    "difficulty": 7,
+    "how": [
+      "Nastav sedátko tak, aby rukojeti byly ve výšce středu hrudníku.",
+      "Záda opři o opěrku, lopatky stáhni dozadu.",
+      "Tlač dopředu bez zvedání ramen, zpět pomalu."
+    ],
+    "mistake": "Příliš velká váha a zvedání ramen k uším.",
+    "images": [
+      "exercises/h2/start.webp",
+      "exercises/h2/end.webp"
+    ],
+    "videoQuery": "Tlak na stroji vsedě technika provedení"
+  },
+  {
+    "id": "h3",
+    "group": "Hrudník",
+    "name": "Rozpažky s činkami na lavici",
+    "eq": [
+      "cinky",
+      "bench"
+    ],
+    "reps": "10–12",
+    "rest": "60 s",
+    "difficulty": 4,
+    "how": [
+      "Lehni si na lavici, činky drž nad hrudníkem s mírně pokrčenými lokty.",
+      "Rozevři paže do stran v oblouku, dokud neucítíš protažení hrudníku.",
+      "Spoj činky zpět nad hrudníkem."
+    ],
+    "mistake": "Příliš těžké činky a hluboké spouštění.",
+    "images": [
+      "exercises/h3/start.webp",
+      "exercises/h3/end.webp"
+    ],
+    "videoQuery": "Rozpažky s činkami na lavici technika provedení"
+  },
+  {
+    "id": "h4",
+    "group": "Hrudník",
+    "name": "Kettlebell floor press",
+    "eq": [
+      "kettlebell"
+    ],
+    "reps": "8–10 na stranu",
+    "rest": "75 s",
+    "difficulty": 6,
+    "how": [
+      "Lehni si na zem s pokrčenými koleny, kettlebell drž u ramene.",
+      "Loket je u těla, předloktí svisle.",
+      "Tlač nahoru a pomalu zpět, dokud loket nedosedne na zem."
+    ],
+    "mistake": "Zápěstí prohnuté dozadu místo rovného.",
+    "images": [
+      "exercises/h4/start.webp",
+      "exercises/h4/end.webp"
+    ],
+    "videoQuery": "Kettlebell floor press technika provedení"
+  },
+  {
+    "id": "h5",
+    "group": "Hrudník",
+    "name": "Kliky",
+    "eq": [
+      "telo"
+    ],
+    "reps": "8–15",
+    "rest": "60 s",
+    "difficulty": 7,
+    "how": [
+      "Dlaně na šířku ramen, tělo v jedné přímce.",
+      "Spouštěj hrudník k zemi, lokty asi 45° od těla.",
+      "Odtlač se zpět nahoru."
+    ],
+    "mistake": "Prověšená bedra a hlava natažená dopředu.",
+    "images": [
+      "exercises/h5/start.webp",
+      "exercises/h5/end.webp"
+    ],
+    "videoQuery": "Kliky technika provedení"
+  },
+  {
+    "id": "z1",
+    "group": "Záda",
+    "name": "Jednoruční přítah činky s oporou o lavici",
+    "eq": [
+      "cinky",
+      "bench"
+    ],
+    "reps": "8–12 na stranu",
+    "rest": "75 s",
+    "difficulty": 8,
+    "how": [
+      "Jednou rukou a kolenem se opři o lavici, druhou drž činku, záda rovně.",
+      "Přitáhni činku k boku, loket vede těsně kolem těla.",
+      "Pomalu natáhni paži zpět."
+    ],
+    "mistake": "Rotace trupu a zhoupnutí činky.",
+    "images": [
+      "exercises/z1/start.webp",
+      "exercises/z1/end.webp"
+    ],
+    "videoQuery": "Jednoruční přítah činky s oporou o lavici technika provedení"
+  },
+  {
+    "id": "z2",
+    "group": "Záda",
+    "name": "Přítah na stroji vsedě",
+    "eq": [
+      "stroje"
+    ],
+    "reps": "10–12",
+    "rest": "75 s",
+    "difficulty": 7,
+    "how": [
+      "Nastav sedák a hrudní opěrku tak, aby paže byly natažené.",
+      "Přitahuj rukojeti k trupu a stáhni lopatky k sobě.",
+      "Zpět pomalu, bez povolení lopatek."
+    ],
+    "mistake": "Zvedání ramen k uším místo práce zad.",
+    "images": [
+      "exercises/z2/start.webp",
+      "exercises/z2/end.webp"
+    ],
+    "videoQuery": "Přítah na stroji vsedě technika provedení"
+  },
+  {
+    "id": "z3",
+    "group": "Záda",
+    "name": "Stahování horní kladky k hrudníku",
+    "eq": [
+      "stroje"
+    ],
+    "reps": "10–12",
+    "rest": "75 s",
+    "difficulty": 7,
+    "how": [
+      "Nastav opěrky stehen a uchop tyč o něco šířeji než ramena.",
+      "Stáhni tyč k horní části hrudníku, lokty míří dolů.",
+      "Pomalu zpět nahoru."
+    ],
+    "mistake": "Záklon trupu a tah tyče za hlavu.",
+    "images": [
+      "exercises/z3/start.webp",
+      "exercises/z3/end.webp"
+    ],
+    "videoQuery": "Stahování horní kladky k hrudníku technika provedení"
+  },
+  {
+    "id": "z4",
+    "group": "Záda",
+    "name": "Kettlebell přítah v předklonu",
+    "eq": [
+      "kettlebell"
+    ],
+    "reps": "10–12 na stranu",
+    "rest": "75 s",
+    "difficulty": 7,
+    "how": [
+      "Předkloň se se zády rovně, kettlebell drž v natažené ruce.",
+      "Přitáhni ho k boku, lopatku stáhni k páteři.",
+      "Pomalu spusť dolů."
+    ],
+    "mistake": "Zakulacená záda a trhání vahou.",
+    "images": [
+      "exercises/z4/start.webp",
+      "exercises/z4/end.webp"
+    ],
+    "videoQuery": "Kettlebell přítah v předklonu technika provedení"
+  },
+  {
+    "id": "z5",
+    "group": "Záda",
+    "name": "Superman na zemi",
+    "eq": [
+      "telo"
+    ],
+    "reps": "10–12",
+    "rest": "45 s",
+    "difficulty": 3,
+    "how": [
+      "Lehni si na břicho, paže natažené před sebe.",
+      "Zvedni současně paže, hrudník a nohy kousek od země.",
+      "Na chvíli vydrž a pomalu uvolni."
+    ],
+    "mistake": "Zvedání hlavy příliš vysoko a prohnutá bedra.",
+    "images": [
+      "exercises/z5/start.webp",
+      "exercises/z5/end.webp"
+    ],
+    "videoQuery": "Superman na zemi technika provedení"
+  },
+  {
+    "id": "r1",
+    "group": "Ramena",
+    "name": "Tlak s činkami vsedě",
+    "eq": [
+      "cinky",
+      "bench"
+    ],
+    "reps": "8–12",
+    "rest": "90 s",
+    "difficulty": 8,
+    "how": [
+      "Sedni na lavici se zády opřenými, činky drž u ramen.",
+      "Tlač nahoru, až jsou paže skoro natažené.",
+      "Spouštěj zpět do výšky uší."
+    ],
+    "mistake": "Prohýbání zad, když je činka těžká.",
+    "images": [
+      "exercises/r1/start.webp",
+      "exercises/r1/end.webp"
+    ],
+    "videoQuery": "Tlak s činkami vsedě technika provedení"
+  },
+  {
+    "id": "r2",
+    "group": "Ramena",
+    "name": "Tlak na stroji na ramena",
+    "eq": [
+      "stroje"
+    ],
+    "reps": "10–12",
+    "rest": "90 s",
+    "difficulty": 6,
+    "how": [
+      "Nastav sedátko tak, aby rukojeti byly u ramen.",
+      "Tlač nahoru bez zvedání ramen k uším.",
+      "Zpět pomalu do výchozí polohy."
+    ],
+    "mistake": "Tlak s prohnutými zády.",
+    "images": [
+      "exercises/r2/start.webp",
+      "exercises/r2/end.webp"
+    ],
+    "videoQuery": "Tlak na stroji na ramena technika provedení"
+  },
+  {
+    "id": "r3",
+    "group": "Ramena",
+    "name": "Upažování s činkami",
+    "eq": [
+      "cinky"
+    ],
+    "reps": "10–15",
+    "rest": "60 s",
+    "difficulty": 4,
+    "how": [
+      "Stůj a činky drž u boků s mírně pokrčenými lokty.",
+      "Zvedej paže do stran do výšky ramen.",
+      "Pomalu spusť dolů."
+    ],
+    "mistake": "Příliš těžké činky a houpání trupem.",
+    "images": [
+      "exercises/r3/start.webp",
+      "exercises/r3/end.webp"
+    ],
+    "videoQuery": "Upažování s činkami technika provedení"
+  },
+  {
+    "id": "r4",
+    "group": "Ramena",
+    "name": "Kettlebell tlak nad hlavu",
+    "eq": [
+      "kettlebell"
+    ],
+    "reps": "6–10 na stranu",
+    "rest": "75 s",
+    "difficulty": 7,
+    "how": [
+      "Kettlebell drž u ramene, břicho a zadek zpevni.",
+      "Tlač rovně nad hlavu, předloktí svisle.",
+      "Zpět kontrolovaně k rameni, pak vyměň ruku."
+    ],
+    "mistake": "Úklon trupu do strany místo zpevněného středu těla.",
+    "images": [
+      "exercises/r4/start.webp",
+      "exercises/r4/end.webp"
+    ],
+    "videoQuery": "Kettlebell tlak nad hlavu technika provedení"
+  },
+  {
+    "id": "r5",
+    "group": "Ramena",
+    "name": "Pike kliky",
+    "eq": [
+      "telo"
+    ],
+    "reps": "6–10",
+    "rest": "75 s",
+    "difficulty": 6,
+    "how": [
+      "Začni v poloze zadkem vzhůru, ruce i nohy na zemi.",
+      "Spusť hlavu mezi ruce, lokty mírně dopředu.",
+      "Odtlač se zpět nahoru."
+    ],
+    "mistake": "Lokty široko do stran.",
+    "images": [
+      "exercises/r5/start.webp",
+      "exercises/r5/end.webp"
+    ],
+    "videoQuery": "Pike kliky technika provedení"
+  },
+  {
+    "id": "u1",
+    "group": "Ruce",
+    "name": "Bicepsový zdvih s činkami",
+    "eq": [
+      "cinky"
+    ],
+    "reps": "10–12",
+    "rest": "60 s",
+    "difficulty": 4,
+    "how": [
+      "Stůj a činky drž podél těla dlaněmi dopředu.",
+      "Pokrčuj lokty a zvedej činky k ramenům, lokty zůstávají u těla.",
+      "Pomalu spusť."
+    ],
+    "mistake": "Houpání trupem a ujíždějící lokty.",
+    "images": [
+      "exercises/u1/start.webp",
+      "exercises/u1/end.webp"
+    ],
+    "videoQuery": "Bicepsový zdvih s činkami technika provedení"
+  },
+  {
+    "id": "u2",
+    "group": "Ruce",
+    "name": "Francouzský tlak s činkou",
+    "eq": [
+      "cinky",
+      "bench"
+    ],
+    "reps": "10–12",
+    "rest": "60 s",
+    "difficulty": 5,
+    "how": [
+      "Lehni si na lavici, činku drž oběma rukama nad hrudníkem.",
+      "Pokrčuj jen lokty a spouštěj činku k čelu nebo za hlavu.",
+      "Natáhni paže zpět nahoru."
+    ],
+    "mistake": "Lokty se rozjíždějí do stran.",
+    "images": [
+      "exercises/u2/start.webp",
+      "exercises/u2/end.webp"
+    ],
+    "videoQuery": "Francouzský tlak s činkou technika provedení"
+  },
+  {
+    "id": "u3",
+    "group": "Ruce",
+    "name": "Bicepsový zdvih na stroji",
+    "eq": [
+      "stroje"
+    ],
+    "reps": "10–12",
+    "rest": "60 s",
+    "difficulty": 3,
+    "how": [
+      "Nastav sedák tak, aby lokty ležely na opěrce.",
+      "Pokrč lokty a zvedej rukojeti k ramenům.",
+      "Pomalu zpět do natažení."
+    ],
+    "mistake": "Zvedání ramen a odlepování loktů od opěrky.",
+    "images": [
+      "exercises/u3/start.webp",
+      "exercises/u3/end.webp"
+    ],
+    "videoQuery": "Bicepsový zdvih na stroji technika provedení"
+  },
+  {
+    "id": "u4",
+    "group": "Ruce",
+    "name": "Tricepsový stroj",
+    "eq": [
+      "stroje"
+    ],
+    "reps": "10–12",
+    "rest": "60 s",
+    "difficulty": 3,
+    "how": [
+      "Nastav sedátko, aby lokty seděly u osy stroje.",
+      "Natahuj paže, lokty drž u těla.",
+      "Zpět pomalu, bez houpání."
+    ],
+    "mistake": "Pomáhání si ramenem a trupem.",
+    "images": [
+      "exercises/u4/start.webp",
+      "exercises/u4/end.webp"
+    ],
+    "videoQuery": "Tricepsový stroj technika provedení"
+  },
+  {
+    "id": "u5",
+    "group": "Ruce",
+    "name": "Kettlebell triceps nad hlavou",
+    "eq": [
+      "kettlebell"
+    ],
+    "reps": "10–12",
+    "rest": "60 s",
+    "difficulty": 4,
+    "how": [
+      "Drž kettlebell oběma rukama za držadlo nad hlavou.",
+      "Spusť ho za hlavu jen pokrčením loktů.",
+      "Natáhni paže zpět nahoru."
+    ],
+    "mistake": "Lokty se při spouštění rozevírají.",
+    "images": [
+      "exercises/u5/start.webp",
+      "exercises/u5/end.webp"
+    ],
+    "videoQuery": "Kettlebell triceps nad hlavou technika provedení"
+  },
+  {
+    "id": "u6",
+    "group": "Ruce",
+    "name": "Kliky v úzkém postoji",
+    "eq": [
+      "telo"
+    ],
+    "reps": "6–12",
+    "rest": "60 s",
+    "difficulty": 6,
+    "how": [
+      "Ruce blíž k sobě, pod hrudníkem.",
+      "Lokty drž podél těla.",
+      "Odtlač se zpět nahoru."
+    ],
+    "mistake": "Lokty do stran jako u běžných kliků.",
+    "images": [
+      "exercises/u6/start.webp",
+      "exercises/u6/end.webp"
+    ],
+    "videoQuery": "Kliky v úzkém postoji technika provedení"
+  },
+  {
+    "id": "c1",
+    "group": "Core",
+    "name": "Plank",
+    "eq": [
+      "telo"
+    ],
+    "reps": "30–45 s",
+    "rest": "45 s",
+    "difficulty": 5,
+    "how": [
+      "Opři se o předloktí a špičky, tělo v jedné přímce.",
+      "Zatni břicho a hýždě, dýchej klidně.",
+      "Drž celou sérii."
+    ],
+    "mistake": "Prověšená bedra nebo vystrčený zadek.",
+    "images": [
+      "exercises/c1/start.webp",
+      "exercises/c1/end.webp"
+    ],
+    "videoQuery": "Plank technika provedení"
+  },
+  {
+    "id": "c2",
+    "group": "Core",
+    "name": "Zvedání nohou vleže",
+    "eq": [
+      "telo"
+    ],
+    "reps": "10–12",
+    "rest": "45 s",
+    "difficulty": 4,
+    "how": [
+      "Lehni na záda, dlaně pod zadek, nohy natažené.",
+      "Zvedej nohy do kolmice, bedra drž na zemi.",
+      "Pomalu spusť, nohy nepokládej."
+    ],
+    "mistake": "Prohnutá bedra a hození nohou švihem.",
+    "images": [
+      "exercises/c2/start.webp",
+      "exercises/c2/end.webp"
+    ],
+    "videoQuery": "Zvedání nohou vleže technika provedení"
+  },
+  {
+    "id": "c3",
+    "group": "Core",
+    "name": "Rotace s kettlebellem vsedě",
+    "eq": [
+      "kettlebell"
+    ],
+    "reps": "10–12 na stranu",
+    "rest": "45 s",
+    "difficulty": 4,
+    "how": [
+      "Sedni, mírně se zakloň, kettlebell drž před hrudníkem.",
+      "Otáčej trup střídavě na obě strany.",
+      "Pohyb vychází z trupu, ne z rukou."
+    ],
+    "mistake": "Kulatá záda a rychlé švihání.",
+    "images": [
+      "exercises/c3/start.webp",
+      "exercises/c3/end.webp"
+    ],
+    "videoQuery": "Rotace s kettlebellem vsedě technika provedení"
+  },
+  {
+    "id": "c4",
+    "group": "Core",
+    "name": "Dead bug",
+    "eq": [
+      "telo"
+    ],
+    "reps": "8–10 na stranu",
+    "rest": "45 s",
+    "difficulty": 3,
+    "how": [
+      "Lehni na záda, ruce nad hrudníkem, kolena nad boky.",
+      "Pomalu natáhni protilehlou paži a nohu k zemi.",
+      "Vrať se a vystřídej strany."
+    ],
+    "mistake": "Bedra se odlepí od země.",
+    "images": [
+      "exercises/c4/start.webp",
+      "exercises/c4/end.webp"
+    ],
+    "videoQuery": "Dead bug technika provedení"
+  },
+  {
+    "id": "c5",
+    "group": "Core",
+    "name": "Sklapovačky na lavici",
+    "eq": [
+      "bench"
+    ],
+    "reps": "10–15",
+    "rest": "45 s",
+    "difficulty": 3,
+    "how": [
+      "Lehni si na lavici, chodidla opři o zem, ruce zkřížené na hrudi.",
+      "Zvedni trup a zatni břicho.",
+      "Pomalu zpět dolů."
+    ],
+    "mistake": "Tahání za krk a zvedání zadku.",
+    "images": [
+      "exercises/c5/start.webp",
+      "exercises/c5/end.webp"
+    ],
+    "videoQuery": "Sklapovačky na lavici technika provedení"
+  }
+]
