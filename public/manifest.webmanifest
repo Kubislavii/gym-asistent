@@ -1,0 +1,17 @@
+{
+  "name": "Gym asistent",
+  "short_name": "Gym asistent",
+  "description": "Co cvičit, jak a kolikrát. Pro začátečníky v posilovně.",
+  "lang": "cs",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F2EE",
+  "theme_color": "#F3F2EE",
+  "icons": [
+    { "src": "icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
